@@ -1,3 +1,6 @@
+-- if u skid ur gay i aint joking
+print("if u skid ur gay i ain't joking")
+warn("if u skid ur gay i aint joking")
 local bootTime = os.time()
 local disconnected = false
 
