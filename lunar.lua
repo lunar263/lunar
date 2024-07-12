@@ -68,36 +68,7 @@ local function chat(msg)
 end
 
 local funfacts = {
-	"Lunar was created on 11/17/22.",
-	"The developer of Lunar has made 2 other scripts: Lunar AI and LunarHub.",
-	"The khord server uses an external invite service so we can get a custom invite because we don't have nitro. d.io/LunarCrocs",
-	"My dad came back from getting the milk 0.03 seconds ago.",
-	"We are playing Roblox.",
-	"If you spend a penny, you lose that penny.",
-	"Press 'Y' to jump.",
-	"Commands are added to Lunar almost every day.",
-	"Lunar was developed and scripted by probablYnicK.",
-	"Lunar is a self-bot, meaning that, yes, I AM A REAL PERSON. I'm watching!",
-	"Khord server: d.io/LunarCrocs",
-	"Among Us is extremely old.",
-	"Press Alt + F4 to get 1 billion dollars on the spot.",
-	"Press U to walk forward.",
-	"At the time of writing this fun fact list, there are 6 people in the server.",
-	"Lunar was first tested in the game: a literal baseplate.",
-	"I found a lucky penny!",
-	"You found this fun fact.",
-	"The sandwich was invented in the 1700s.",
-	"If you drink poison, you might die.",
-	"Hot water will turn into ice faster than cold water.",
-	"The Mona Lisa has no eyebrows.",
-	"The strongest muscle in the body is the tongue.",
-	"Ants take rest for around 8 minutes in a 12-hour period.",
-	"'I am' is the shortest complete sentence in the English language.",
-	"Coca-Cola was originally green.",
-	"I got most of these fun facts from Google.",
-	"Rabbits can't get sick.",
-	"McDonald's invented a sweet-tasting type of broccoli.",
-	"Water makes different sounds depending on its temperature.",
+	"Disabled sorry"
 }
 
 local messageReceived = game.TextChatService.TextChannels.RBXGeneral.MessageReceived
